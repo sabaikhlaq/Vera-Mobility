@@ -1,0 +1,6 @@
+{
+  "name": "VERA Mobility - Chauffeured Driving Services by Women for Women",
+  "description": "Professional, warm, and secure chauffeured mobility services provided exclusively by certified women chauffeurs for women of all ages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
